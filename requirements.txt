@@ -1,0 +1,9 @@
+# Python 3.10–3.13. Tested on Google Colab (Tesla T4) and locally.
+tensorflow>=2.16.0
+tf_keras>=2.16.0
+opencv-python-headless>=4.8.0
+scikit-image>=0.21.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+h5py>=3.9.0
+Pillow>=10.0.0
